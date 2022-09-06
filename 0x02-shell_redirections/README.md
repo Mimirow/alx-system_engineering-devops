@@ -1,1 +1,1 @@
-Without C, you would live in hiago
+Don't just count your directories, make your directories count
