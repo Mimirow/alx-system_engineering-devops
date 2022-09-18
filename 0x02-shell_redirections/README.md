@@ -1,2 +1,1 @@
-Save current state of directory
-mandatory
+Duplicate last line
